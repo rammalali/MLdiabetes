@@ -1,7 +1,7 @@
-### MLdiabetes
-# ML project for education.
+# MLdiabetes
+## ML project for education.
 
-# Predicting Diabetes with Machine Learning
+### Predicting Diabetes with Machine Learning
   Diabetes is a chronic medical condition that affects a large number of people worldwide. 
   It is a condition that arises when the body is unable to produce or use insulin effectively, 
   resulting in elevated blood sugar levels. 
