@@ -7,7 +7,7 @@
   resulting in elevated blood sugar levels. 
   This project aims to develop machine learning model to predict if a patient has Diabetes 
   or doesn’t, based on Glucose level, Blood Pressure, Skin Thickness, etc...
-    **Methodology**: \ 
+    **Methodology**: \
         To create a good model, we propose the following methodology: \
         \
             • Data Collection and visualization: a medical record from patients with or 
@@ -23,4 +23,4 @@
             • Model Evaluation: We will assess the accuracy of our model using 
             various evaluation metrics such as accuracy, precision and recall. We will 
             compare the performance of different models and select the best 
-            performing model.\
+            performing model.
